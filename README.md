@@ -5,7 +5,7 @@ To start a attack you need the username and wordlist with guested passwords crea
 The script is written in python so you need to have python installed, script is tested on Kali Linux and should work properly on this system.
 
 
-To get the script working you have to go to terminal and write:
+To get the script working you have to go to terminal and write:<br/>
 git clone https://github.com/ulathiel/BruteforceD.git
 cd Bruteforce
 python bruteforceD.py -h
