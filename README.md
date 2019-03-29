@@ -6,6 +6,6 @@ The script is written in python so you need to have python installed, script is 
 
 
 To get the script working you have to go to terminal and write:
-git clone https://github.com/ulathiel/BruteforceD/
+git clone https://github.com/ulathiel/BruteforceD.git
 cd Bruteforce
 python bruteforceD.py -h
